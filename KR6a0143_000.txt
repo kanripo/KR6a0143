@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 阿那邠邸化七子經
+#+DATE: 2015-08-30 19:32:49.349405
+#+PROPERTY: JUAN 0
